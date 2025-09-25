@@ -1,3 +1,5 @@
+#include <Servo.h>
+
 #define PIN_SERVO 8  // 핀 번호 - 서보 모터
  
 Servo mini_servo;
